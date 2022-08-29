@@ -1,0 +1,17 @@
+.headerBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px;
+
+    background-color: #1f2535;
+    width: 800px;
+}
+
+#logo {
+    width: 20px;
+}
+
+#menu {
+    width: 20px;
+}
